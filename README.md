@@ -17,7 +17,7 @@ that it is prohibitively expensive to track the propagation of individual photon
 method for dealing with this is to use Monte Carlo techniques to model the probabilistic
 behavior of photons.
 
-Setup of problem:
+**Setup of problem:**
 - Assume that the radiation source (a star) can be represented as a point source
 in the middle of your simulation domain, and consider motion only in a 2D plane.
 
