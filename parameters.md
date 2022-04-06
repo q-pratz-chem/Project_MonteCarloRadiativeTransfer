@@ -1,11 +1,11 @@
 
 **Optical depth (distance traveled before interaction):** 
 The mean free path of photons through a medium is closely related to the optical depth of the 
-medium. The optical depth, denoted by $\tau$, is a dimensionless quantity that tells us the 
+medium. The optical depth, denoted by τ, is a dimensionless quantity that tells us the 
 likelihood that a photon will be absorbed or scattered while traveling through the medium. A
-medium with $\tau >>1$ is called __optically thick__, and a photon traveling through it will
+medium with τ >>1 is called __optically thick__, and a photon traveling through it will
 either be quickly absorbed, or it will undergo many scatterings before emerging. A medium
-with $τ<<1$ is called __optically thin__, and a photon is very unlikely to be scattered or
+with τ<<1 is called __optically thin__, and a photon is very unlikely to be scattered or
 absorbed while traveling through it. A population of photons propagating through a medium 
 will interact after traversing different distances s, distributed according to an exponential PDF:
 
@@ -13,7 +13,7 @@ $p(s) = \tau e^{−\tau s}
 
 You will need to use this non-uniform PDF to generate the random distance traveled
 by a given photon before its next interaction event. Start by assuming an optical
-depth of $\tau = 1$. Given the current direction of travel of a photon, as well as this
+depth of τ = 1. Given the current direction of travel of a photon, as well as this
 distance traveled, we can determine the location of the next interaction event.
 
 **Albedo (scattering vs. absorption probability):**
