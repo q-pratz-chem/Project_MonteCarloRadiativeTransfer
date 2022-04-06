@@ -4,6 +4,8 @@ My individual project on writing python code to simulate how the radiation from 
 through a surrounding gaseous interstellar medium along with the written report from the scientific
 investigation from the analysis done using the written code.
 
+---
+
 “Radiative transfer" is the collective term for a large, complex set of processes that govern how 
 radiation propagates through different media. Accurate models of radiative transfer are important 
 in many areas of physics, though they plays a uniquely central role in astrophysics. Virtually 
