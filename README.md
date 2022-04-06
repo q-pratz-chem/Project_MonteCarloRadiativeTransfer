@@ -28,6 +28,6 @@ scattering or an absorption event.
 - Assume that all photons are exactly alike – that is, you don’t need to assume
 different behavior for photons of different frequencies, just assume all photons
 experience the same absorption and scattering probabilities when interacting
-with the gas.
+with the gas. 
 
 
