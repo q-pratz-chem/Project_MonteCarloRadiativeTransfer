@@ -16,10 +16,10 @@ method for dealing with this is to use Monte Carlo techniques to model the proba
 behavior of photons.
 
 Setup of problem:
-– Assume that the radiation source (a star) can be represented as a point source
+- Assume that the radiation source (a star) can be represented as a point source
 in the middle of your simulation domain, and consider motion only in a 2D plane.
 
-– Photons are assumed to travel radially outward from the star through a uniform
+- Photons are assumed to travel radially outward from the star through a uniform
 gaseous medium until they interact with a gas molecule, resulting in either a
 scattering or an absorption event.
 
