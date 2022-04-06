@@ -4,6 +4,10 @@ My individual project on writing python code to simulate how the radiation from 
 through a surrounding gaseous interstellar medium along with the written report from the scientific
 investigation from the analysis done using the written code.
 
+Project 1 from Computational Physics Course
+Supervisor: Dr. Laura Blecha, Theoretical Astrophysicist, University of Florida, Gainesville,FL. USA.
+Submisstion Date: 15 March 2022
+
 ---
 
 “Radiative transfer" is the collective term for a large, complex set of processes that govern how 
